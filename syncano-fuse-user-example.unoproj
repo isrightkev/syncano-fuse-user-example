@@ -1,0 +1,15 @@
+{
+  "Packages": [
+    "Fuse",
+    "FuseJS"
+  ],
+
+  "Includes": [
+    "*",
+    "./syncano-js/dist/syncano.fuse.js:Bundle",
+    "api-keys.js:Bundle",
+  ],
+
+}    
+   
+
